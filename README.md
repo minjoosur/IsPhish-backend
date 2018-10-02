@@ -1,4 +1,4 @@
-[IsPhish]
+## IsPhish
 
 Please click the link below to checkout the website!
 https://isphish-opendns.herokuapp.com/
