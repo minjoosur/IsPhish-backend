@@ -1,0 +1,6 @@
+com/test/opendns/cisco/phish/model/UrlInfo.class
+com/test/opendns/cisco/phish/PhishApplication.class
+com/test/opendns/cisco/phish/controller/UrlInfoController.class
+com/test/opendns/cisco/phish/service/UrlInfoService.class
+com/test/opendns/cisco/phish/repository/PhishUrlRepository.class
+com/test/opendns/cisco/phish/service/UrlInfoServiceImpl.class

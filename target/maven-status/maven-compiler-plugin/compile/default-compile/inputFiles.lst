@@ -1,0 +1,6 @@
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/PhishApplication.java
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/service/UrlInfoServiceImpl.java
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/repository/PhishUrlRepository.java
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/controller/UrlInfoController.java
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/service/UrlInfoService.java
+/Users/minjoo/github/phish/src/main/java/com/test/opendns/cisco/phish/model/UrlInfo.java
