@@ -14,7 +14,7 @@ https://isphish-opendns.herokuapp.com/
 - https://greatman.cf/dir/secure.htm
 - http://as13232.my1.ru/fb-help-center.html
 - https://tinyurl.com/y84sjqk2
-= ... and 28269 more!
+- ... and 28269 more!
 
 
 More Info:
